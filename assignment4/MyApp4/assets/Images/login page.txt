@@ -1,0 +1,100 @@
+PAGE I:{
+_ Jobizz _
+font-family: Poppins;
+font-size: 22px;
+font-weight: 600;
+line-height: 33px;
+letter-spacing: -0.02em;
+text-align: center;
+background: #356899;
+
+_ Welcome back pic _
+
+_ Let’s log in. Apply to jobs! _
+styleName: Regular/14 px;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 22.4px;
+letter-spacing: -0.01em;
+text-align: left;
+background: #0D0D26;
+
+_ Input Name & Email _
+width: 327px;
+height: 52px;
+top: 329px;
+left: 24px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: #AFB0B6;
+
+_ Log In btn _
+text color: #FFFFFF
+width: Fixed (327px)px;
+height: Hug (56px)px;
+top: 413px;
+left: 24px;
+padding: 16px 48px 16px 48px;
+gap: 10px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+background: #356899;
+
+_ Or continue with _
+width: 99px;
+height: 16px;
+top: 534px;
+left: 138px;
+gap: 0px;
+opacity: 0px;
+font-family: Circular Std;
+font-size: 13px;
+font-weight: 400;
+line-height: 16.44px;
+text-align: center;
+background: #AFB0B6;
+ -line1:
+width: 98px;
+height: 0px;
+top: 542px;
+left: 24px;
+gap: 0px;
+border: 0.5px 0px 0px 0px;
+opacity: 0px;
+	
+ -line2:	
+width: 98px;
+height: 0px;
+top: 542px;
+left: 253px;
+gap: 0px;
+border: 0.5px 0px 0px 0px;
+opacity: 0px;
+angle: 0 deg;
+
+_ Icons _
+width: 216px;
+height: 56px;
+top: 588px;
+left: 79px;
+gap: 0px;
+opacity: 0px;
+
+ -small container & inner circle: 56px by 56px
+ -inner icon: 28px by 28px
+
+_ Haven’t an account? Register _
+background: #BDBEC2; grey
+background: #356899; blue
+font-family: Circular Std;
+font-size: 14px;
+font-weight: 400;
+line-height: 17.71px;
+text-align: center;
+
+
+
+}
